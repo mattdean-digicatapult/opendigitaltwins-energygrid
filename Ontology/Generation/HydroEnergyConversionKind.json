@@ -1,4 +1,5 @@
 {
+    "@id": "dtmi:digitaltwins:ngsi_ld:cim:energy:HydroEnergyConversionKind;1",
     "@type": "Interface",
     "displayName": "HydroEnergyConversionKind",
     "comment": "Specifies the capability of the hydro generating unit to convert energy as a generator or pump.",
@@ -27,5 +28,5 @@
             }
         }
     ],
-    "@context": "dtmi:dtdl:context;2"
+    "@context": "dtmi:dtdl:context;42"
 }
